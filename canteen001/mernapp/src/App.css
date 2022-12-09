@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+  /* background: url("https://hdwallpaperim.com/wp-content/uploads/2017/09/17/60012-food-pizza-cheese.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.shop {
+  width: 100%;
+  background: url("https://hdwallpaperim.com/wp-content/uploads/2017/09/17/60012-food-pizza-cheese.jpg");
+  height: 360px;
+  background-attachment: fixed;}
+
+/* 
+.container{
+  height: 700px;
+  background: url("https://i.pinimg.com/736x/82/be/d4/82bed479344270067e3d2171379949b3.jpg");
+} */
+ #snm {
+    width: 100%;
+    height: 550px;
+    background: url("https://i.pinimg.com/736x/82/be/d4/82bed479344270067e3d2171379949b3.jpg");
+    font-size: 60px;
+  }
+/* 
+.banner {
+  width: 100%;
+  height: 100vh;
+  background: url("https://hdwallpaperim.com/wp-content/uploads/2017/09/17/60012-food-pizza-cheese.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.banner__content {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+} */

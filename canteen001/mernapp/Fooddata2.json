@@ -1,0 +1,63 @@
+[
+
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Fried Rice",
+        "img": "https://assets.dmagstatic.com/wp-content/uploads/2017/04/biryani.jpg",
+        "options": [
+            {
+                "half": "60",
+                "full": "110"
+            }
+        ],
+        "description": "Made using Indian Masale and Basmati Rice"
+    },
+
+
+
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Chicken Fried Rice",
+        "img": "https://assets.dmagstatic.com/wp-content/uploads/2017/04/biryani.jpg",
+        "options": [
+            {
+                "half": "80",
+                "full": "150"
+            }
+        ],
+        "description": "Made using Indian Masale and Basmati Rice"
+    }
+
+    {
+        "CategoryName": "Pizza",
+        "name": "Cheese Pizza",
+        "img": "https://wallpapercave.com/wp/wc1813154.jpg",
+        "options": [
+            {
+                "regular": "120",
+                "medium": "180",
+                "large": "250"
+            }
+        ],
+        "description": "Made using Indian Masale and Basmati Rice"
+    },
+
+
+    {
+        "CategoryName": "Pizza",
+        "name": "Miz veg paneer pizza",
+        "img": "https://wallpapercave.com/wp/wc1813154.jpg",
+        "options": [
+            {
+                "regular": "110",
+                "medium": "170",
+                "large": "220"
+            }
+        ],
+        "description": "Made using Indian Masale and Basmati Rice"
+    }
+
+
+
+
+]
